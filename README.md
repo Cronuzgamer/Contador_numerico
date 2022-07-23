@@ -2,4 +2,4 @@
 
 Minha primeira integração de um código Java script com uma página HTML.
 
-![contador tela](C:\Users\Gabriel\Desktop\Contador\contador tela.png)
+![contador tela](https://github.com/Cronuzgamer/Contador-_num-rico/blob/master/contador%20tela.png)
